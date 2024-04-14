@@ -1,0 +1,64 @@
+Column_Name,Description
+Species,Sea turtle genus species
+Stranding_Day,Day of mass stranding event turtle was recorded. Some uncertainty in the is value is indicated by some text along with the number
+Turtle_Number,"Turtle number per day of mass stranding event, as written on the carapace and/or plastron"
+Location,Location turtle stranded or was recovered
+Stranding_ID_number,Sea Turtle Stranding and Salvage Network ID number
+Tail_Length,Length of tail beyond the carapace (cm)
+Sex,Sex of the turtle
+Condition_Description,Condition of turtle at time of necropsy
+Flipper_Tag,Flipper tag number
+PIT_Tag,PIT tag number. Value is No if not present
+Living_Tag,Living tag present?
+SCL_Notch,Straightline carapace length (notch to notch) (cm)
+SCL_Tip,Straightline carapace length (notch to tip) (cm)
+SCW,Straightline carapace width (cm)
+Anterior_depth,Anterior carapace depth (cm)
+Plastron_length,Plastron length (cm)
+Head_length,Head length in cm
+Head_width,Head Width in cm
+Front_Flipper_Chord_Length,Front flipper chord length in cm
+Front_Flipper_Claw_Length,Front flipper claw length in cm
+Dorsal_Tail_Length,Dorsal tail length (cm)
+Rear_Flipper_Claw_Length,Rear flipper claw length in cm
+Tail_Vent_to_Tip_Length,Length of tail from vent to tail tip (cm)
+Curved_Carapce_length_TIP,Curved carapace length (notch to tip) (cm)
+Curved_Carapace_Length_notch,Curved carapace length (notch to notch) (cm)
+Curved_carapace_Width,Curved carapace width (cm)
+Barnacles,Are barnacles present and obstructing measurements
+Weight,Turtle weight (kg)
+Date_Necropsied,Necropsy date
+Examiner_Affiliation,Affiliated Organization of examiner conducting necropsy
+Necropsy_Description,Description of necropsy
+Eyes_Sunken,Were eyes sunken
+Skeletal_Features_Prominent,Are the skeletal features prominent?
+Heavy_Epibiota,Is the turtle heavily encrusted with epibiota?
+Gooseneck_Barnacles,Are gooseneck barnacles present on the turtle?
+Leeches,Are leeches present on the turtle?
+Head_Appendages_Epibiota,What percent of the head and/or appendages is covered with epibiota?
+Carapace_Epibiota,What percent of the carapace is covered with epibiota?
+Plastron_Epibiota,What percent of the plastron is covered with epibiota?
+Muscle_Status,Condition of muscle
+Fat_Status,Condition of fat
+Joint_Fluid,Condition of Joint fluids
+Coelomic_Fluid_Volume,Estimated coelomic fluid volume
+Blood_In_Heart_Chambers,Was blood present in heart chambers?
+Heart_Weight,Weight of heart (g)
+Liver_Weight,Weight of liver (g)
+Spleen_Weight,Weight of spleen (g)
+Kidney_Weight,Weight of kidney (g)
+Gonads,Type of gonads
+Testes_Characterization,Description of testes
+Testes_Length,Length of one testis (cm)
+Testes_Width,Width of one testis (cm)
+Epididymis_Characterization,Description of epididymis
+Ovaries_Characterization,Description of ovaries
+Ovary_Length,Length of one ovary (width also intermittently included)
+Oviduct_Characterization,Description of oviduct
+Trachea_Foam_Froth,Is foam or froth present in the trachea?
+Trachea_Foam_Froth_Anterior,Is foam or froth present in the anterior part of the trachea?
+Trachea_Foam_Froth_Posterior,Is foam or froth present in the posterior part of the trachea?
+Trachea_Foam_Froth_Amount,Amount of foam or froth present in the trachea
+Trachea_Sand_Sediment,Is sand or sediment present in the trachea?
+Trachea_Bronchi_Findings,Findings regarding condition of trachea and bronchi
+Brain_Weight,Weight of brain

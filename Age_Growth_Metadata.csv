@@ -1,0 +1,7 @@
+Column_Name,Description
+Stranding_ID_Number,Sea Turtle Stranding and Salvage Network ID number. This table contains one record for each each skeletal growth mark on the the stranded turtle. (One record for each determined year of the turtle's life) Part of primary key for this table which is a combination of stranding id and age.
+Sex,Sex of turtle as determined through examination of gonads during necropsy
+Straightline_Carapace_Length,Annual somatic growth rate (change in centimeters per year for carapace length) calculated by taking the difference between sequential estimates of Straightline Carapace Length
+Growth_Rate,Annual somatic growth rate (change in centimeters per year for carapace length) calculated by taking the difference between sequential estimates of Straightline Carapace Length
+Age,Age associated with each skeletal growth mark. Part of primary key for this table which is a combination of stranding id and age.
+Year,Calendar year associated with each skeletal growth mark
